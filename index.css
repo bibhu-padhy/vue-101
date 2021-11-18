@@ -1,0 +1,19 @@
+#app {
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.male {
+    border: 5px solid rgb(15, 135, 139);
+}
+
+.female {
+    border: 5px solid rgb(248, 28, 156);
+}
